@@ -43,7 +43,6 @@ Laboratory Indicators
 
 - ALB
 - ALT
-- ALP
 - AST
 - BIL
 
@@ -137,3 +136,5 @@ Author
 Grace Job Egberis
 
 Healthcare Data Analyst | Registered Nurse 
+
+Linkedin https://www.linkedin.com/in/grace-egberis-91524038a
