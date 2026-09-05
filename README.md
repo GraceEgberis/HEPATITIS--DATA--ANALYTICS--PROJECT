@@ -74,7 +74,7 @@ Analysis focused on:
 
 ### Dashboard 1 — Patient Demographics & Distribution
 
-![Dashboard 1](dashboard_1_demographics.png)
+![Dashboard 1](dashboard_1_demographics.jpg)
 
 This dashboard presents:
 
@@ -89,7 +89,7 @@ This dashboard presents:
 
 ### Dashboard 2 — Disease & Demographic Risk Profile
 
-![Dashboard 2](dashboard_2_disease_risk.png)
+![Dashboard 2](dashboard_2_disease_risk.jpg)
 
 This dashboard examines:
 
@@ -100,7 +100,7 @@ This dashboard examines:
 
 ### Dashboard 3 — Disease Progression & Laboratory Indicators
 
-![Dashboard 3](dashboard_3_disease_labs.png)
+![Dashboard 3](dashboard_3_disease_labs.jpg)
 
 This dashboard examines laboratory patterns across disease progression using ALB, ALT, ALP, AST and BIL.
 
